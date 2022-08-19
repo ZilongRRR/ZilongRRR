@@ -71,7 +71,3 @@ I’m a front-end developer and also a game developer.
 <br/>  
 
 
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
