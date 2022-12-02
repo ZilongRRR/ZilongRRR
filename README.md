@@ -24,7 +24,7 @@ I’m a front-end developer and also a game developer.
 - 💼 I’m currently working on [Hashgreen](https://www.linkedin.com/company/hashgreen-labs/)  
   
 - Open Source Contributor :
-  - [Chia-Network/Climate-Wallet](https://github.com/Chia-Network/Climate-Wallet)
+<!--   - [Chia-Network/Climate-Wallet](https://github.com/Chia-Network/Climate-Wallet) -->
   - [hashgreen/hoogii-wallet](https://github.com/hashgreen/hoogii-wallet)
 
 
