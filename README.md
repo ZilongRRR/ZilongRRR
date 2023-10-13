@@ -19,31 +19,20 @@ I’m a front-end developer and also a game developer.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 💼 I’m currently working on [Hashgreen](https://www.linkedin.com/company/hashgreen-labs/)  
-  
+
 - Open Source Contributor :
   - [hashgreen/hoogii-wallet](https://github.com/hashgreen/hoogii-wallet)
-<!--   - [Chia-Network/Climate-Wallet](https://github.com/Chia-Network/Climate-Wallet) -->
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+  - [Chia-Network/Climate-Wallet](https://github.com/Chia-Network/Climate-Wallet)
 
 <br/>  
 
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="80" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" /></a>  
+  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="80" />
+  <img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="80" />
 </div>  
 
 <br/>  
