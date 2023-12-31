@@ -20,7 +20,7 @@ I’m a front-end developer and also a game developer.
 
 ## Rapidfire  
 
-- 💼 I’m currently working on [Hashgreen](https://www.linkedin.com/company/hashgreen-labs/)  
+- 💼 I’m currently working on [TeamT5]([https://www.linkedin.com/company/hashgreen-labs/](https://www.linkedin.com/company/teamt5/mycompany/))  
 
 - Open Source Contributor :
   - [hashgreen/hoogii-wallet](https://github.com/hashgreen/hoogii-wallet)
