@@ -7,6 +7,10 @@
 <a href="https://linkedin.com/in/zilongtw" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.zilong.website/resume" target="_blank">
+<img src=https://img.shields.io/badge/readme-%535D6C.svg?&style=for-the-badge&logo=readme&logoColor=white alt=cv style="margin-bottom: 5px;" />
+</a>  
+  
   
 
 
