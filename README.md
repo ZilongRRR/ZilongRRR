@@ -10,21 +10,17 @@
 <a href="https://www.zilong.website/resume" target="_blank">
 <img src=https://img.shields.io/badge/readme-%535D6C.svg?&style=for-the-badge&logo=readme&logoColor=white alt=cv style="margin-bottom: 5px;" />
 </a>  
-  
-  
-
 
 
 ### Glad to see you here!  
 I’m a front-end developer and also a game developer.  
-  
 
 <br/>  
 
 
 ## Rapidfire  
 
-- 💼 I’m currently working on [TeamT5]([https://www.linkedin.com/company/hashgreen-labs/](https://www.linkedin.com/company/teamt5/mycompany/))  
+- 💼 I’m currently working on 8am
 
 - Open Source Contributor :
   - [hashgreen/hoogii-wallet](https://github.com/hashgreen/hoogii-wallet)
